@@ -1,5 +1,5 @@
 
-# 😈 TrollTool – The (Almost) Harmless Prank DLL Project
+# Fake Dll for trolling
 
 **IMPORTANT NOTE:** This project is for educational and entertainment purposes only. Using it on other people's systems **without their explicit consent** is strictly forbidden.
 
