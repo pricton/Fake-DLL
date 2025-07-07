@@ -1,32 +1,13 @@
+# ⚠️ TrollTool – Use with Caution
 
-# Fake Dll for trolling
+**Warning:** This DLL behaves like potentially unwanted software — by design.
 
-**IMPORTANT NOTE:** This project is for educational and entertainment purposes only. Using it on other people's systems **without their explicit consent** is strictly forbidden.
+## Behavior:
+- Instantly displays a popup
+- Silently copies itself to the file system
+- Spreads to connected USB devices
 
-## 🧪 What does this tool do?
-
-This DLL opens a surprise popup window and **copies itself** into the local file system and any plugged-in USB drives.
-
-### Features:
-
-- 🪟 Unexpected popup window
-- 📁 Self-replication into `%APPDATA%`
-- 🔌 USB spread (automatically)
-- 💡 Intended for: *trolling with flair*
-
-## ⚠️ Disclaimer
-
-> This tool is **not meant to cause any damage**. It’s simply designed to act like a mildly annoying joke.
-
-**You are solely responsible for how you use this software.** Never run it on a system without full permission. The authors assume no liability for misuse.
-
-## 🛡️ Safety Design
-
-Despite the prank:
-- No system files are altered
-- No user data is accessed
-- No internet/network activity
-- All behavior is documented and open-source
+**Not a toy. Not a harmless joke. Use at your own risk and never without consent.**
 
 ## 📄 License
 
